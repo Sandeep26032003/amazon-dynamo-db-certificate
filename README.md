@@ -1,0 +1,1 @@
+# amazon-dynamo-db-certificate
